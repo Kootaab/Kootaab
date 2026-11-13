@@ -34,7 +34,6 @@ A multi-tenant, Skill-Centric eLearning platform for creating and operating bran
   - Example: https://kootaab.vercel.app
   - Example: https://emedu-academy.vercel.app/
   - Example: https://tech-academy-lovat.vercel.app/
-  - Example: https://academy-website-mu-five.vercel.app/
 
 #### 🤵🏻 **Study Dashboard** — learner-facing environment.
   - Example: https://kootaab.vercel.app/study/
