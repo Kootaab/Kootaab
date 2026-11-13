@@ -7,6 +7,15 @@
 
 A multi-tenant, Skill-Centric eLearning platform for creating and operating branded academy experiences, from public websites and learner study spaces to academy administration and platform operations.
 
+**🌐 [Kootaab | The Platform موقع منصة كُتّاب ](https://kootaab.com)**
+
+**🎓 [Kootaab **Academy Website** نموذج أكاديمية كُتّاب ](https://kootaab.vercel.app)**
+
+**🤵🏻 [Kootaab **Study Dashboard** لوحة الطالب ](https://kootaab.vercel.app/study/)** 
+
+**🔑 [Kootaab **Academy Admin Panel** لوحة إدارة الأكاديمية ](https://kootaab.vercel.app/study/)** 
+
+
 **Created by [ePlusWeb | eLearning Solutions](https://eplusweb.com)** ·
 [Github](https://github.com/ePlusWeb-Solutions) · [Kootaab organization](https://github.com/Kootaab/)
 
@@ -23,6 +32,9 @@ A multi-tenant, Skill-Centric eLearning platform for creating and operating bran
 
 #### 🎓 Kootaab - **Academy Website** — public-facing academy website and learning content.
   - Example: https://kootaab.vercel.app
+  - Example: https://emedu-academy.vercel.app/
+  - Example: https://tech-academy-lovat.vercel.app/
+  - Example: https://academy-website-mu-five.vercel.app/
 
 #### 🤵🏻 **Study Dashboard** — learner-facing environment.
   - Example: https://kootaab.vercel.app/study/
